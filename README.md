@@ -1,6 +1,7 @@
 # Weather Forecast App
 
 This is a simple weather forecast app that allows users to check the current weather and 5-day forecast for a city.
+
 ![ezgif-7-f6e5db4641](https://github.com/anaswara11/weather-app-react/assets/92247177/6646f862-f40c-4cbe-a087-51258fdcec23)
 
 ## Live Demo
