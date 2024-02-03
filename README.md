@@ -4,7 +4,8 @@ This is a simple weather forecast app that allows users to check the current wea
 
 ## Live Demo
 
-
+Deployed over Github Pages:
+https://anaswara11.github.io/weather-app-react/
 
 ## Features
 
