@@ -45,4 +45,3 @@ Start the development server:
 npm start
 ```
 Open your browser and visit http://localhost:3000 to view the app.
->>>>>>> origin/main
